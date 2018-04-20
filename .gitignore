@@ -24,6 +24,6 @@
 
 /config/initializers/devise.rb
 
-mf.php
-mf2.php
-mf.rb
+/mf.php
+/mf2.php
+/mf.rb
